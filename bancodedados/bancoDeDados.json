@@ -1,0 +1,100 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "titulo": "Avanços na Energia Sustentável Transformam o Setor Elétrico",
+      "autor": "Mariana Souza",
+      "imagem": "https://th.bing.com/th/id/R.6661be780557baba6c0969c0679bf016?rik=DI1a0tA1Xlu33Q&pid=ImgRaw&r=0",
+      "data_publicacao": "2025-12-09",
+      "resumo": "Novas tecnologias de energia renovável estão revolucionando o setor elétrico brasileiro.",
+      "conteudo": [
+        "Nos últimos anos, o Brasil tem se destacado como líder em investimentos em energia sustentável.",
+        "A energia solar tem ganhado espaço em residências e empresas, com queda nos preços dos painéis.",
+        "A energia eólica mostra resultados impressionantes, especialmente no Nordeste.",
+        "O uso da biomassa transforma resíduos agrícolas em energia limpa.",
+        "Especialistas afirmam que até 2030, mais de 70% da matriz energética será renovável.",
+        "Apesar dos avanços, ainda há desafios na infraestrutura de transmissão e distribuição."
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Tecnologia 6G Promete Revolucionar a Conectividade Global",
+      "autor": "Carlos Mendes",
+      "imagem": "https://static.misionesonline.news/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-19-at-4.40.14-PM.jpeg",
+      "data_publicacao": "2025-11-20",
+      "resumo": "O desenvolvimento da rede 6G traz novas perspectivas para comunicação e internet das coisas.",
+      "conteudo": [
+        "Pesquisadores afirmam que o 6G será até 100 vezes mais rápido que o 5G.",
+        "A tecnologia permitirá maior integração entre dispositivos inteligentes.",
+        "Aplicações incluem carros autônomos, cirurgias remotas e cidades inteligentes.",
+        "Empresas de telecomunicações já iniciaram testes em países da Ásia e Europa.",
+        "O Brasil planeja adotar o 6G até 2032, segundo o Ministério das Comunicações.",
+        "Especialistas alertam para desafios de infraestrutura e segurança digital."
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Descoberta Científica Pode Ajudar no Combate ao Câncer",
+      "autor": "Fernanda Lima",
+      "imagem": "https://tse3.mm.bing.net/th/id/OIP.o7pCaOS7hlkaPY-Pu7-kugHaE5?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "data_publicacao": "2025-10-15",
+      "resumo": "Pesquisadores desenvolvem técnica inovadora que aumenta a eficácia de tratamentos contra o câncer.",
+      "conteudo": [
+        "Cientistas brasileiros criaram uma terapia baseada em nanotecnologia.",
+        "A técnica permite direcionar medicamentos diretamente às células cancerígenas.",
+        "Isso reduz efeitos colaterais e aumenta a eficácia do tratamento.",
+        "Os testes iniciais mostraram resultados promissores em pacientes com tumores resistentes.",
+        "A pesquisa recebeu apoio internacional e pode ser aplicada em larga escala em 5 anos.",
+        "Especialistas acreditam que essa descoberta pode revolucionar a oncologia."
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Exploração Espacial: Brasil Participa de Missão Internacional à Lua",
+      "autor": "João Pereira",
+      "imagem": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/06/Exploracao-espacial.jpg",
+      "data_publicacao": "2025-09-30",
+      "resumo": "O Brasil se junta a países parceiros em uma missão para instalar base lunar.",
+      "conteudo": [
+        "A Agência Espacial Brasileira anunciou participação em missão internacional à Lua.",
+        "O objetivo é instalar uma base de pesquisa permanente até 2035.",
+        "A missão envolve cooperação com NASA, ESA e outras agências.",
+        "Pesquisadores brasileiros contribuirão com tecnologia de energia solar e biologia espacial.",
+        "O projeto busca estudar recursos lunares e preparar futuras missões a Marte.",
+        "Essa iniciativa marca um avanço histórico para a ciência e tecnologia nacional."
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "Agricultura Sustentável Ganha Força no Interior do Brasil",
+      "autor": "Ana Beatriz",
+      "imagem": "https://www.geotechconsultoria.com/wp-content/uploads/2021/11/Agricultura-sustentavel-Geotech-Consultoria.jpg",
+      "data_publicacao": "2025-08-12",
+      "resumo": "Novas práticas agrícolas estão aumentando a produtividade e reduzindo impactos ambientais.",
+      "conteudo": [
+        "Produtores rurais adotam técnicas de cultivo regenerativo.",
+        "O uso de drones e sensores melhora o monitoramento das plantações.",
+        "A rotação de culturas e o plantio direto reduzem a degradação do solo.",
+        "Cooperativas locais relatam aumento de até 40% na produtividade.",
+        "Programas governamentais incentivam a adoção de tecnologias verdes.",
+        "A agricultura sustentável fortalece a economia e preserva o meio ambiente."
+      ]
+    },
+    {
+      "id": "6",
+      "titulo": "Inteligência Artificial Avança na Educação Brasileira",
+      "autor": "Ricardo Almeida",
+      "imagem": "https://tse1.mm.bing.net/th/id/OIP.aQgWjIH7cXs_0BjjhAElJwHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "data_publicacao": "2025-07-05",
+      "resumo": "Ferramentas de IA estão transformando o ensino e personalizando a aprendizagem.",
+      "conteudo": [
+        "Escolas públicas e privadas começam a adotar sistemas de IA para ensino personalizado.",
+        "A tecnologia analisa o desempenho dos alunos e sugere conteúdos adaptados.",
+        "Professores utilizam IA para identificar dificuldades e propor soluções rápidas.",
+        "Plataformas digitais oferecem simuladores e ambientes de realidade aumentada.",
+        "Estudos mostram que alunos com acesso à IA têm melhor desempenho em avaliações.",
+        "Apesar dos benefícios, especialistas alertam para a necessidade de regulamentação ética."
+      ]
+    }
+  ]
+}

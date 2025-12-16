@@ -1,0 +1,47 @@
+* {
+    user-select: none;
+}
+
+.centr {
+    display:flex;
+    background-color:rgb(240, 240, 240);
+    height: 873px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.barra {
+    display: flex;
+    background-color: rgb(255, 153, 0);
+    height: 60px;
+    position:sticky;
+}
+
+.login {
+    background-color:white;
+    width: 600px;
+    height: 600px;
+    border-radius: 30px;
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    text-align: center;
+    align-items: center;
+    background-size: 600px 600px;
+
+}
+
+.butaoo {
+    height:40px; 
+    width:200px;
+    border-radius: 30px;
+    border: 0px solid;
+    color: white;
+    background-color: rgb(255, 153, 0);
+    transition: transform 0.5s;
+}
+
+.butaoo:hover {
+    transform: scale(1.1);
+}

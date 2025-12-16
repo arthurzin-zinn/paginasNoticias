@@ -1,0 +1,63 @@
+.center {
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    background-color: rgb(240, 240, 240);
+    height:93%;
+}
+
+#componentes {
+    color:black
+}
+
+.barra {
+    display:flex;
+    background-color: rgb(255, 153, 0);
+    height: 7%;
+    transition: transform 0.5s;
+}
+
+.barra:hover {
+    transform: scaleY(2);
+}
+
+.intems {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items: center;
+    
+}
+
+.Div {
+    border-radius: 30px;
+    transition: scale 0.3s;
+    background-size: 400px 300px
+}
+
+.texto {
+    position:relative;
+    right: -10px;
+    bottom: -10px
+}
+
+.Div:hover {
+    scale: 1.05;
+}
+
+.teste {
+    transition: padding 0.5s,margin-top 0.5s ;
+    overflow:hidden
+}
+
+.Div:hover .teste {
+    padding-top: 100px;
+    margin-top: -100px;
+}
+
+.Div:hover .texto {
+    bottom:100px;
+    right: 15px;
+    scale: 0.9;
+}

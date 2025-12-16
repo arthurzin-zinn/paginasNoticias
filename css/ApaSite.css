@@ -1,0 +1,20 @@
+.center {
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    background-color: rgb(240, 240, 240);
+    height:93%;
+}
+
+.barra {
+    display:flex;
+    background-color: rgb(255, 153, 0);
+    height: 7%;
+    transition: transform 0.5s;
+}
+
+.Div {
+    width: 1000px; 
+    height: 800px;
+    background-color: white;
+}
