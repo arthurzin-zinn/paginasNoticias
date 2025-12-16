@@ -1,6 +1,6 @@
 
 function procurar(entradaU, entradaS) {
-    fetch("../bancodedados/Usuarios.json").then(response => response.json()).then(data => {
+    fetch("./bancodedados/Usuarios.json").then(response => response.json()).then(data => {
         //alert(JSON.stringify(data));
         const Usuario = data.find((user) => user.usuario === entradaU && user.senha === entradaS);
         //alert(JSON.stringify(Usuario));
