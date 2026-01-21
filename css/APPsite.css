@@ -12,13 +12,35 @@
 
 .barra {
     display:flex;
+    justify-content: space-between;
     background-color: rgb(255, 153, 0);
     height: 7%;
     transition: transform 0.5s;
 }
 
+.home{
+    transition: transform 0.3s;
+}
+
+.Log {
+    margin-right: 30px;
+    color: white;
+    
+}
+
 .barra:hover {
     transform: scaleY(2);
+    
+}
+
+.barra:hover .home {
+    transform: scaleY(0.5);
+    margin-top: 10px;
+}
+
+.barra:hover .Log {
+    transform: scale(1.3);
+    margin-top: 20px;
 }
 
 .intems {

@@ -1,4 +1,6 @@
 
+
+
 function procurar(entradaU, entradaS) {
     fetch("../BancoDeDados/Usuarios.json").then(response => response.json()).then(data => {
         //alert(JSON.stringify(data));
@@ -7,6 +9,9 @@ function procurar(entradaU, entradaS) {
         if (Usuario == undefined){
             alert("usuario e senha não encotrado")
         } else {
+            localStorage.setItem("nome", entradaU);
+            localStorage.setItem("isLogged" , "true");
+            localStorage.setItem("data", new Date());
             window.location.href = './noticias.html';
         }
 

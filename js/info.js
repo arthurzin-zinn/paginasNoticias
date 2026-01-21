@@ -12,6 +12,7 @@
        // `
    // })
 
+
 fetch("../bancodedados/bancoDeDados.json").then(response => response.json()).then(data => {
     
     const noticias = document.querySelector('#intems');
