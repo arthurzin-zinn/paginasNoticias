@@ -1,6 +1,6 @@
 function comentar() {
     const comentario = document.getElementById("newComent").value;
-    const nome = localStorage.getItem(nome);
+    const nome = localStorage.getItem("nome");
     const data = new Date();
 
     const novaDivComentario = document.createElement('div');
