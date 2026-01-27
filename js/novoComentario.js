@@ -5,13 +5,13 @@ function comentar() {
 
     const novaDivComentario = document.createElement('div');
     novaDivComentario.innerHTML = `
-    <div style="display: flex;">
-        <p>${nome}</p>
-        <p>${data}</p>
+    <div>
+        <p style="margin-right: 5px; font-family: sans-serif;">${nome}</p>
+        <p style="font-family: sans-serif; font-size: 14px; color:grey;">${data}</p>
     </div>
 
     <p>${comentario}</p>
     `;
 
-    document.querySelector('comentarios').appendChild(novaDivComentario);
+    document.getElementById('comentarios').appendChild(novaDivComentario);
 }

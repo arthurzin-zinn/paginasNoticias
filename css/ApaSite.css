@@ -51,3 +51,22 @@
 #svg:hover {
     transform: scale(1.2);
 }
+
+#comentar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+    height: 300px;
+}
+
+#comentarios {
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 20px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
