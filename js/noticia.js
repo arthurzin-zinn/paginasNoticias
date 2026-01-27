@@ -12,3 +12,4 @@ fetch("../bancodedados/bancoDeDados.json").then(response => response.json()).the
     document.querySelector("#Descricao").innerHTML=artigo.conteudo;
     
 })
+
